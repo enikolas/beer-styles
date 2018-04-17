@@ -1,0 +1,11 @@
+.SingleLineList {
+	margin: 0;
+	padding: 8px 0;
+	list-style: none;
+}
+
+.SingleLineList li {
+	padding: 16px;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+	font-size: 1.6rem;
+}
